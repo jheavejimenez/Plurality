@@ -7,12 +7,12 @@ Perhaps the simplest way to hold an election, though, is via a method commonly k
 
 # Usage
 ```
-$ ./plurality Alice Bob Charlie
+$ ./plurality Elon Bill Jeff
 Number of voters: 4
-Vote: Alice
-Vote: Bob
-Vote: Charlie
-Vote: Alice
-Alice
+Vote: Elon
+Vote: Bill
+Vote: Elon
+Vote: Jeff
+Elon
 
 ```
